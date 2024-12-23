@@ -11,8 +11,6 @@ Simple CRUD website for todolist by combining Laravel 11, Livewire 3, and DaisyU
 
 ## Screenshots
 
-![App Screenshot: Data is empty](./Documentation/Data%20is%20empty.png)
-![App Screenshot: List student](./Documentation/Add%20Task%20Modal.png)
 ![App Screenshot: Add student](./Documentation/List%20Task.png)
 
 
